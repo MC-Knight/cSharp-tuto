@@ -1,10 +1,10 @@
 Console.WriteLine("Hello World");
 
 
-string name = "Joseph");
+string name = "Joseph";
 
 //output with WriteLine which outputs with new line like theone \n in other many languages
-Console.WriteLine($"Hello {name} !);
+Console.WriteLine($"Hello {name}!");
 Console.WriteLine("Hello" +name);
 
 //output with Write only which write without breaking a line
